@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **https://novafirekt.github.io/nova-s-personal-website/**
 
-- ⚡ Fun fact **Most hated language : PERL**
+- ⚡ Fun fact **Most hated coding language : Perl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
