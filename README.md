@@ -1,4 +1,6 @@
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h1 align="center">Hey there 👋, I'm Nilesh Telang</h1>
 <h3 align="center">A passionate MERN stack developer from Pune, India</h3>
