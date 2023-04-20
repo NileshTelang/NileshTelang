@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **https://novafirekt.github.io/nova-s-personal-website/**
 
-- ⚡ Fun fact **Japan have created fastest network speed of 1 petabyte per second**
+- ⚡ Fun fact **Most hated language : PERL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
