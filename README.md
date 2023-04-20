@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **seQuelize**
 
-- 💬 Ask me about **node express**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **https://novafirekt.github.io/nova-s-personal-website/**
 
