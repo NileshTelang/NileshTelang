@@ -1,9 +1,10 @@
 <!-- ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png) -->
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*FGD6BUzzZs1VJLuY.gif">
 
 <h1 align="center">Hey there 👋, I'm Nilesh Telang</h1>
 <h3 align="center">A passionate MERN stack developer from Pune, India</h3>
+
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*FGD6BUzzZs1VJLuY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novafirekt&label=Profile%20views&color=0e75b6&style=flat" alt="novafirekt" /> </p>
 
