@@ -1,6 +1,6 @@
 <!-- ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png) -->
 
-<img align="right" alt="coding" width="400" src="[https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg](https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif)">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*FGD6BUzzZs1VJLuY.gif">
 
 <h1 align="center">Hey there 👋, I'm Nilesh Telang</h1>
 <h3 align="center">A passionate MERN stack developer from Pune, India</h3>
