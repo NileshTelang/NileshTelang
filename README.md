@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NileshTelang&show_icons=true&locale=en" alt="NileshTelang" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novafirekt &" alt="NileshTelang" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NileshTelang&" alt="NileshTelang" /></p>
 
 <h3 align="left">Git Tophies:</h3>
 
