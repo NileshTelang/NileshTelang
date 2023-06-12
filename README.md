@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **https://NileshTelang.github.io/nova-s-personal-website/**
+- 📫 How to reach me **https://nova-me.onrender.com**
 
 - ⚡ Fun fact **Most hated coding language : Perl**
 
