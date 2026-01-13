@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Gevme**
 
-- 🌱 I’m currently learning **seQuelize**
+- 🌱 I’m currently learning **Fastify**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Backend**
 
-- 📫 How to reach me **https://nova-me.onrender.com**
+- 📫 How to reach me **https://nileshtelang.github.io/portfolio/**
 
 - ⚡ Fun fact **Most hated coding language : Perl**
 
