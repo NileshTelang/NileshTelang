@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Backend**
 
-- 📫 How to reach me **https://nileshtelang.github.io/portfolio/**
+- 📫 How to reach me **https://nileshtelang.github.io/me/**
 
 - ⚡ Fun fact **Most hated coding language : Perl**
   
